@@ -1,3 +1,4 @@
 # meal_tracker_server
 
-work in progress (60%)
+A server application for a Meal tracer application.
+Stack - MERN
